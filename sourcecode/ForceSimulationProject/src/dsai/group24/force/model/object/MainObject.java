@@ -118,4 +118,11 @@ public abstract class MainObject {
 		setMass(mass);
 	}
 
+    public MainObject(){
+        
+    }
+
+    public MainObject(double mass){
+
+    }
 }

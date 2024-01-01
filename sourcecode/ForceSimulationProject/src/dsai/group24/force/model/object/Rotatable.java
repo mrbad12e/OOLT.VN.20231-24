@@ -54,4 +54,5 @@ public interface Rotatable {
 	//Áp dụng một lực trong một khoảng thời gian t để cập nhật gia tốc góc, vận tốc góc và góc quay của đối tượng
 	void applyForceInTimeRotate(Force force, double t);
 
-}
+    
+} 
